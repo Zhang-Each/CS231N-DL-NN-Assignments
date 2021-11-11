@@ -1,0 +1,9 @@
+cifar-10-batches-py/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+coco_captioning/
+.DS_Store
+data/
+MNIST_data/
+
